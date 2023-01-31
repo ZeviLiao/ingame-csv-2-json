@@ -17,7 +17,7 @@ Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark
 1) BSC News NFT Explorer Bundle
 2) Starter Bundle(submarine event)",,Peculiar Equipment Chest ,"What an odd-looking chest! How curious, how very peculiar. From where did it come? And what exactly does it hold? Only one way to find out…",eq-crate_peculiar-min.png,
 2,Chest,13,Lucky Draw Ticket in the Starter Bundle(submarine event),,Seabreacher X Lucky Draw Ticket,Stand an exciting chance to win the Seabreacher X and its accompanying NFT Mount - the Azuroras ATV that will appear in DGP: Plaza! Refer to Discord and Twitter for the official draw date.,luckyDraw.png,The ticket will be real NFT
-2,Chest,14,Merged 2-3 & 2-12 into a new chest,,Mystery Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment. ",,2023/Jan update
+2,Chest,14,Merged 2-3 & 2-12 into a new chest,,Mystery Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment. ",mystery_chest_icon.png,2023/Jan update
 3,Egg,1,Egg,,Random D.G.Egg,This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.,random_egg.png,"include race type: 1~6, 9, 10"
 3,Egg,2,Space(R),,Rare Space D.G.Egg,This is a Rare Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Space type D.G.Pal.,space_egg_r.png,
 3,Egg,3,Elem(R),,Rare Elemental D.G.Egg,This is a Rare Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Elemental type D.G.Pal.,elemental_egg_r.png,
@@ -30,19 +30,19 @@ Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark
 ,,,,,Dino D.G.Egg,This is a random Dino D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino D.G.Pal NFT.,,
 ,,,,,Nightmare D.G.Egg ,This is a random Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Nightmare D.G.Pal NFT.,,
 10,Ticket,1,"free mint ticket for NW NFTs
-(Consumable)",,Certification Ticket, Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required. ,,2023/Jan update
+(Consumable)",,Certification Ticket, Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required. ,free_mint_icon.png,2023/Jan update
 10,Ticket,2,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Green,An invitation to trade... That's all it says on the back.,,2023/Jan update
+of equal rank, just for different categories",,Luxe Green,An invitation to trade... That's all it says on the back.,luxe_green.png,2023/Jan update
 10,Ticket,3,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Blue,An invitation to trade... That's all it says on the back.,,2023/Jan update
+of equal rank, just for different categories",,Luxe Blue,An invitation to trade... That's all it says on the back.,luxe_blue.png,2023/Jan update
 10,Ticket,4,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Red,An invitation to trade... That's all it says on the back.,,2023/Jan update
+of equal rank, just for different categories",,Luxe Red,An invitation to trade... That's all it says on the back.,luxe_red.png,2023/Jan update
 10,Ticket,5,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Purple,An invitation to trade... That's all it says on the back.,,2023/Jan update
+of equal rank, just for different categories",,Luxe Purple,An invitation to trade... That's all it says on the back.,luxe_purple.png,2023/Jan update
 10,Ticket,6,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-The extremely premium ticket",,Rainbow Luxe,An invitation to trade... That's all it says on the back.,,2023/Jan update
+The extremely premium ticket",,Rainbow Luxe,An invitation to trade... That's all it says on the back.,luxe_rainbow.png,2023/Jan update
