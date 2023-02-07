@@ -34,7 +34,7 @@ async function convert(files) {
 
   fs.writeFile(
     "output.json",
-    JSON.stringify(mappingResult),
+    JSON.stringify(mappingResult, null, '\t'),
     "utf-8",
     function (err) {
       if (err) {
