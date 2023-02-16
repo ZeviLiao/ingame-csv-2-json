@@ -1,1 +1,702 @@
-{"1-1":{"itemName":"D.G.Gold","description":"Our very own CRC-20 governance token. Use this precious currency to stake, earn D.G.Pal eggs, mint NFTs, and access exclusive content!","image":"dgg.png"},"1-2":{"itemName":"Panterra Opal","description":"The common currency used by D.G.Pals, Panterra Opals can be traded with other Explorers and used for a wide range of activities.","image":"opl.png"},"2-1":{"itemName":"Wheel of Fortune Ticket","description":"A token that gleams with opportunity. Use it to spin the Wheel of Fortune and test your luck. Maybe you'll get something valuable!","image":"wheel_ticket.png"},"2-2":{"itemName":"Random Loot Chest","description":"A mysterious unearthed cache that could contain Equipment, Materials, Crystals, Gems, or Runes. There's only one way to find out what's inside…","image":"random_loot_crate.png"},"2-3":{"itemName":"Mystery Equipment Chest","description":"Looks like Forgetemper left his things lying around again... This unmarked chest could contain Crystals, Gems, or if you’re super lucky, a piece of Epic or Rare Equipment.","image":"random_equipment_crate.png"},"2-4":{"itemName":"Uncommon Equipment Chest","description":"A sturdy chest made by Forgetemper himself. Open it to find Crystals, Gems, or quite possibly, a piece of Epic or Rare Equipment.","image":"uncommon_equipment_crate.png"},"2-5":{"itemName":"Rare Equipment Chest","description":"This chest seems to have been crafted with great care, just like the piece of Rare Equipment inside it. What will you find? Weapon, Helm, Garb, Boots or Ring?","image":"rare_equipment_crate.png"},"2-6":{"itemName":"Epic Equipment Chest","description":"What a chest indeed! Such stunning ornamentation! Surely, there must be a piece of Epic Equipment inside. What could it be? Weapon, Helm, Garb, Boots or Ring?","image":"epic_equipment_crate.png"},"2-7":{"itemName":"Legendary Equipment Chest","description":"Just feel all that raw power radiating from this magnificent chest! There is definitely a piece of Legendary Equipment in here. Only one question remains: Weapon, Helm, Garb, Boots or Ring?","image":"legendary_equipment_crate.png"},"2-8":{"itemName":"Mystery Material Chest","description":"A random mix of Wood, Metal, or Stone freshly bundled by hard-working D.G.Pals. What could you create with this?","image":"random_resource_crate.png"},"2-9":{"itemName":"Small Material Chest","description":"A handy pack of Wood, Metal, or Stone to jump-start your crafting.","image":"random_small_crate.png"},"2-10":{"itemName":"Medium Material Chest","description":"A sizable haul of Wood, Metal, or Stone from the bountiful land of Panterra, for all your crafting needs.","image":"random_medium_crate.png"},"2-11":{"itemName":"Large Material Chest","description":"A gigantic pile of Wood, Metal, or Stone delivered right to your doorstep. Time for some serious construction work!","image":"random_large_crate.png"},"2-12":{"itemName":"Peculiar Equipment Chest","description":"What an odd-looking chest! How curious, how very peculiar. From where did it come? And what exactly does it hold? Only one way to find out…","image":"eq-crate_peculiar-min.png"},"2-13":{"itemName":"Seabreacher X Lucky Draw Ticket","description":"Stand an exciting chance to win the Seabreacher X and its accompanying NFT Mount - the Azuroras ATV that will appear in DGP: Plaza! Refer to Discord and Twitter for the official draw date.","image":"luckyDraw.png"},"2-14":{"itemName":"Mystery Chest","description":"Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment.","image":"mystery_chest_icon.png"},"3-1":{"itemName":"Random D.G.Egg","description":"This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.","image":"random_egg.png"},"3-2":{"itemName":"Rare Space D.G.Egg","description":"This is a Rare Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Space type D.G.Pal.","image":"space_egg_r.png"},"3-3":{"itemName":"Rare Elemental D.G.Egg","description":"This is a Rare Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Elemental type D.G.Pal.","image":"elemental_egg_r.png"},"3-4":{"itemName":"Great Space D.G.Egg","description":"This is a Great Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Space type D.G.Pal.","image":"space_egg_g.png"},"3-5":{"itemName":"Great Elemental D.G.Egg","description":"This is a Great Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Elemental type D.G.Pal.","image":"elemental_egg_g.png"},"3-6":{"itemName":"Excellent Space D.G.Egg","description":"This is an Excellent Space D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Space type D.G.Pal.","image":"space_egg_e.png"},"3-7":{"itemName":"Excellent Elemental D.G.Egg","description":"This is an Excellent Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Elemental type D.G.Pal.","image":"elemental_egg_e.png"},"3-8":{"itemName":"Random Space / Elemental D.G.Egg","description":"This is a random Space / Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space / Elemental D.G.Pal NFT.","image":"elemental-space_egg.png"},"3-9":{"itemName":"Random Dino / Nightmare D.G.Egg","description":"This is a random Dino / Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino / Nightmare D.G.Pal NFT.","image":"dino-nightmare_egg.png"},"4-1":{"itemName":"Cracked Gaean Ruby [T1]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_1.png"},"4-2":{"itemName":"Weathered Gaean Ruby [T2]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_2.png"},"4-3":{"itemName":"Rough Gaean Ruby [T3]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_3.png"},"4-4":{"itemName":"Tarnished Gaean Ruby [T4]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_4.png"},"4-5":{"itemName":"Dull Gaean Ruby [T5]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_5.png"},"4-6":{"itemName":"Clear Gaean Ruby [T6]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_6.png"},"4-7":{"itemName":"Keen Gaean Ruby [T7]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_7.png"},"4-8":{"itemName":"Polished Gaean Ruby [T8]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_8.png"},"4-9":{"itemName":"Pristine Gaean Ruby [T9]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_9.png"},"4-10":{"itemName":"Flawless Gaean Ruby [T10]","description":"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_red_10.png"},"4-11":{"itemName":"Celestial Gaean Ruby [T11]","description":"A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.","image":"gem_red_11.png"},"4-12":{"itemName":"Divine Gaean Ruby [T12]","description":"A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.","image":"gem_red_12.png"},"5-1":{"itemName":"Cracked Gaean Sapphire [T1]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_1.png"},"5-2":{"itemName":"Weathered Gaean Sapphire [T2]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_2.png"},"5-3":{"itemName":"Rough Gaean Sapphire [T3]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_3.png"},"5-4":{"itemName":"Tarnished Gaean Sapphire [T4]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_4.png"},"5-5":{"itemName":"Dull Gaean Sapphire [T5]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_5.png"},"5-6":{"itemName":"Clear Gaean Sapphire [T6]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_6.png"},"5-7":{"itemName":"Keen Gaean Sapphire [T7]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_7.png"},"5-8":{"itemName":"Polished Gaean Sapphire [T8]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_8.png"},"5-9":{"itemName":"Pristine Gaean Sapphire [T9]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_9.png"},"5-10":{"itemName":"Flawless Gaean Sapphire [T10]","description":"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_blue_10.png"},"5-11":{"itemName":"Celestial Gaean Sapphire [T11]","description":"A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.","image":"gem_blue_11.png"},"5-12":{"itemName":"Divine Gaean Sapphire [T12]","description":"A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.","image":"gem_blue_12.png"},"6-1":{"itemName":"Cracked Gaean Citrine [T1]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_1.png"},"6-2":{"itemName":"Weathered Gaean Citrine [T2]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_2.png"},"6-3":{"itemName":"Rough Gaean Citrine [T3]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_3.png"},"6-4":{"itemName":"Tarnished Gaean Citrine [T4]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_4.png"},"6-5":{"itemName":"Dull Gaean Citrine [T5]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_5.png"},"6-6":{"itemName":"Clear Gaean Citrine [T6]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_6.png"},"6-7":{"itemName":"Keen Gaean Citrine [T7]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_7.png"},"6-8":{"itemName":"Polished Gaean Citrine [T8]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_8.png"},"6-9":{"itemName":"Pristine Gaean Citrine [T9]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_9.png"},"6-10":{"itemName":"Flawless Gaean Citrine [T10]","description":"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_yellow_10.png"},"6-11":{"itemName":"Celestial Gaean Citrine [T11]","description":"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.","image":"gem_yellow_11.png"},"6-12":{"itemName":"Divine Gaean Citrine [T12]","description":"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.","image":"gem_yellow_12.png"},"7-1":{"itemName":"Cracked Gaean Emerald [T1]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_1.png"},"7-2":{"itemName":"Weathered Gaean Emerald [T2]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_2.png"},"7-3":{"itemName":"Rough Gaean Emerald [T3]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_3.png"},"7-4":{"itemName":"Tarnished Gaean Emerald [T4]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_4.png"},"7-5":{"itemName":"Dull Gaean Emerald [T5]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_5.png"},"7-6":{"itemName":"Clear Gaean Emerald [T6]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_6.png"},"7-7":{"itemName":"Keen Gaean Emerald [T7]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_7.png"},"7-8":{"itemName":"Polished Gaean Emerald [T8]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_8.png"},"7-9":{"itemName":"Pristine Gaean Emerald [T9]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_9.png"},"7-10":{"itemName":"Flawless Gaean Emerald [T10]","description":"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.","image":"gem_green_10.png"},"7-11":{"itemName":"Celestial Gaean Emerald [T11]","description":"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.","image":"gem_green_11.png"},"7-12":{"itemName":"Divine Gaean Emerald [T12]","description":"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.","image":"gem_green_12.png"},"8-1":{"itemName":"Cloudy Vathmite Dust [T1] ","description":"A cloudy speck of dust from a long-lost war. Used for upgrades.","image":"crystal_1.png"},"8-2":{"itemName":"Bright Vathmite Dust [T2] ","description":"A bright clump of dust from a long-lost war. Used for upgrades.","image":"crystal_2.png"},"8-3":{"itemName":"Gleaming Vathmite Dust [T3]","description":"A gleaming pile of dust from a long-lost war. Used for upgrades.","image":"crystal_3.png"},"8-4":{"itemName":"Cloudy Vathmite Shard [T4]","description":"A cloudy shard of crystallised essence from a long-lost war. Used for upgrades.","image":"crystal_4.png"},"8-5":{"itemName":"Bright Vathmite Shard [T5]","description":"A bright shard of crystallised essence from a long-lost war. Used for upgrades.","image":"crystal_5.png"},"8-6":{"itemName":"Gleaming Vathmite Shard [T6]","description":"A gleaming shard of crystallised essence from a long-lost war. Used for upgrades.","image":"crystal_6.png"},"8-7":{"itemName":"Cloudy Vathmite Crystal [T7]","description":"A cloudy, intricately cut gemstone from a long-lost war. Used for upgrades.","image":"crystal_7.png"},"8-8":{"itemName":"Bright Vathmite Crystal [T8]","description":"A bright, intricately cut gemstone from a long-lost war. Used for upgrades.","image":"crystal_8.png"},"8-9":{"itemName":"Gleaming Vathmite Crystal [T9]","description":"A gleaming, intricately cut gemstone from a long-lost war. Used for upgrades.","image":"crystal_9.png"},"8-10":{"itemName":"Singing Vathmite Crystal [T10]","description":"A perfectly preserved gemstone from a long-lost war that sings upon one’s touch. Used for upgrades.","image":"crystal_10.png"},"9-1":{"itemName":"Occluded Rune","description":"A swirling purple mist enshrouds this Rune. How will it enhance your Equipment stats?","image":"occluded_rune.png"},"10-1":{"itemName":"Certification Ticket","description":"Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required.","image":"free_mint_icon.png"},"10-2":{"itemName":"Luxe Green","description":"An invitation to trade... That's all it says on the back.","image":"luxe_green.png"},"10-3":{"itemName":"Luxe Blue","description":"An invitation to trade... That's all it says on the back.","image":"luxe_blue.png"},"10-4":{"itemName":"Luxe Red","description":"An invitation to trade... That's all it says on the back.","image":"luxe_red.png"},"10-5":{"itemName":"Luxe Purple","description":"An invitation to trade... That's all it says on the back.","image":"luxe_purple.png"},"10-6":{"itemName":"Rainbow Luxe","description":"An invitation to trade... That's all it says on the back.","image":"luxe_rainbow.png"},"11-1":{"itemName":"Thistle Thread [T1]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_1.png"},"11-2":{"itemName":"Thistle Thread [T2]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_2.png"},"11-3":{"itemName":"Thistle Thread [T3]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_3.png"},"11-4":{"itemName":"Thistle Thread [T4]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_4.png"},"11-5":{"itemName":"Thistle Thread [T5]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_5.png"},"11-6":{"itemName":"Thistle Thread [T6]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_6.png"},"11-7":{"itemName":"Thistle Thread [T7]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_7.png"},"11-8":{"itemName":"Thistle Thread [T8]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_8.png"},"11-9":{"itemName":"Thistle Thread [T9]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_9.png"},"11-10":{"itemName":"Thistle Thread [T10]","description":"From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.","image":"thistleThread_10.png"},"12-1":{"itemName":"Powdered Tears [T1]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_1.png"},"12-2":{"itemName":"Powdered Tears [T2]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_2.png"},"12-3":{"itemName":"Powdered Tears [T3]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_3.png"},"12-4":{"itemName":"Powdered Tears [T4]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_4.png"},"12-5":{"itemName":"Powdered Tears [T5]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_5.png"},"12-6":{"itemName":"Powdered Tears [T6]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_6.png"},"12-7":{"itemName":"Powdered Tears [T7]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_7.png"},"12-8":{"itemName":"Powdered Tears [T8]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_8.png"},"12-9":{"itemName":"Powdered Tears [T9]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_9.png"},"12-10":{"itemName":"Powdered Tears [T10]","description":"From the good times and the bad. May they guide one’s decisions. Used for upgrades.","image":"powderedTears_10.png"},"13-1":{"itemName":"Ember Oil [T1]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_1.png"},"13-2":{"itemName":"Ember Oil [T2]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_2.png"},"13-3":{"itemName":"Ember Oil [T3]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_3.png"},"13-4":{"itemName":"Ember Oil [T4]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_4.png"},"13-5":{"itemName":"Ember Oil [T5]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_5.png"},"13-6":{"itemName":"Ember Oil [T6]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_6.png"},"13-7":{"itemName":"Ember Oil [T7]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_7.png"},"13-8":{"itemName":"Ember Oil [T8]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_8.png"},"13-9":{"itemName":"Ember Oil [T9]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_9.png"},"13-10":{"itemName":"Ember Oil [T10]","description":"From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.","image":"emberOil_10.png"},"14-1":{"itemName":"Comet Splinter [T1]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_1.png"},"14-2":{"itemName":"Comet Splinter [T2]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_2.png"},"14-3":{"itemName":"Comet Splinter [T3]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_3.png"},"14-4":{"itemName":"Comet Splinter [T4]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_4.png"},"14-5":{"itemName":"Comet Splinter [T5]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_5.png"},"14-6":{"itemName":"Comet Splinter [T6]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_6.png"},"14-7":{"itemName":"Comet Splinter [T7]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_7.png"},"14-8":{"itemName":"Comet Splinter [T8]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_8.png"},"14-9":{"itemName":"Comet Splinter [T9]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_9.png"},"14-10":{"itemName":"Comet Splinter [T10]","description":"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.","image":"cometSplinter_10.png"}}
+{
+	"1-1": {
+		"itemName": "D.G.Gold",
+		"description": "Our very own CRC-20 governance token. Use this precious currency to stake, earn D.G.Pal eggs, mint NFTs, and access exclusive content!",
+		"image": "dgg.png"
+	},
+	"1-2": {
+		"itemName": "Panterra Opal",
+		"description": "The common currency used by D.G.Pals, Panterra Opals can be traded with other Explorers and used for a wide range of activities.",
+		"image": "opl.png"
+	},
+	"1-3": {
+		"itemName": "Dark Sentinel Badge",
+		"description": "A badge of glory for those who spare no expense, whether it be offence or defence. Gather enough and find favour with the Dark Sentinels.",
+		"image": "black_badge.png"
+	},
+	"1-4": {
+		"itemName": "Light Sentinel Badge",
+		"description": "A badge of honour for those who burn the midnight oil and daily make that uphill toil. Gather enough and find favour with the Light Sentinels.",
+		"image": "white_badge.png"
+	},
+	"2-1": {
+		"itemName": "Wheel of Fortune Ticket",
+		"description": "A token that gleams with opportunity. Use it to spin the Wheel of Fortune and test your luck. Maybe you'll get something valuable!",
+		"image": "wheel_ticket.png"
+	},
+	"2-2": {
+		"itemName": "Random Loot Chest",
+		"description": "A mysterious unearthed cache that could contain Equipment, Materials, Crystals, Gems, or Runes. There's only one way to find out what's inside…",
+		"image": "random_loot_crate.png"
+	},
+	"2-3": {
+		"itemName": "Mystery Equipment Chest",
+		"description": "Looks like Forgetemper left his things lying around again... This unmarked chest could contain Crystals, Gems, or if you’re super lucky, a piece of Epic or Rare Equipment.",
+		"image": "random_equipment_crate.png"
+	},
+	"2-4": {
+		"itemName": "Uncommon Equipment Chest",
+		"description": "A sturdy chest made by Forgetemper himself. Open it to find Crystals, Gems, or quite possibly, a piece of Epic or Rare Equipment.",
+		"image": "uncommon_equipment_crate.png"
+	},
+	"2-5": {
+		"itemName": "Rare Equipment Chest",
+		"description": "This chest seems to have been crafted with great care, just like the piece of Rare Equipment inside it. What will you find? Weapon, Helm, Garb, Boots or Ring?",
+		"image": "rare_equipment_crate.png"
+	},
+	"2-6": {
+		"itemName": "Epic Equipment Chest",
+		"description": "What a chest indeed! Such stunning ornamentation! Surely, there must be a piece of Epic Equipment inside. What could it be? Weapon, Helm, Garb, Boots or Ring?",
+		"image": "epic_equipment_crate.png"
+	},
+	"2-7": {
+		"itemName": "Legendary Equipment Chest",
+		"description": "Just feel all that raw power radiating from this magnificent chest! There is definitely a piece of Legendary Equipment in here. Only one question remains: Weapon, Helm, Garb, Boots or Ring?",
+		"image": "legendary_equipment_crate.png"
+	},
+	"2-8": {
+		"itemName": "Mystery Material Chest",
+		"description": "A random mix of Wood, Metal, or Stone freshly bundled by hard-working D.G.Pals. What could you create with this?",
+		"image": "random_resource_crate.png"
+	},
+	"2-9": {
+		"itemName": "Small Material Chest",
+		"description": "A handy pack of Wood, Metal, or Stone to jump-start your crafting.",
+		"image": "random_small_crate.png"
+	},
+	"2-10": {
+		"itemName": "Medium Material Chest",
+		"description": "A sizable haul of Wood, Metal, or Stone from the bountiful land of Panterra, for all your crafting needs.",
+		"image": "random_medium_crate.png"
+	},
+	"2-11": {
+		"itemName": "Large Material Chest",
+		"description": "A gigantic pile of Wood, Metal, or Stone delivered right to your doorstep. Time for some serious construction work!",
+		"image": "random_large_crate.png"
+	},
+	"2-12": {
+		"itemName": "Peculiar Equipment Chest",
+		"description": "What an odd-looking chest! How curious, how very peculiar. From where did it come? And what exactly does it hold? Only one way to find out…",
+		"image": "eq-crate_peculiar-min.png"
+	},
+	"2-13": {
+		"itemName": "Seabreacher X Lucky Draw Ticket",
+		"description": "Stand an exciting chance to win the Seabreacher X and its accompanying NFT Mount - the Azuroras ATV that will appear in DGP: Plaza! Refer to Discord and Twitter for the official draw date.",
+		"image": "luckyDraw.png"
+	},
+	"2-14": {
+		"itemName": "Mystery Chest",
+		"description": "Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment.",
+		"image": "mystery_chest_icon.png"
+	},
+	"2-15": {
+		"itemName": "Classic Arena Crate",
+		"description": "Ooooo… The Classic Arena Crate that every Arena challenger needs. Contains various upgrade materials [T1-T6] and oh, the slightest chance of Equipment.  (Earn 1 Light Sentinel Badge.)",
+		"image": "arena_crate_classic.png"
+	},
+	"2-16": {
+		"itemName": "Deluxe Arena Crate",
+		"description": "Ready to up your game? Then this Deluxe Arena Crate is perfect for you! Contains a significant amount of upgrade materials [T1-T8] and even a small chance of Equipment!  (Receive 10 Dark Sentinel Badges.)",
+		"image": "arena_crate_deluxe.png"
+	},
+	"2-17": {
+		"itemName": "Premium Arena Crate",
+		"description": "Aspiring Legends, this one’s for you! Gain an edge over your opponents with this Premium Arena Crate and take the competition by storm! Contains quality upgrade materials [T6-T10] and a higher chance of Equipment.  (Receive 50 Dark Sentinel Badges.)",
+		"image": "arena_crate_premium.png"
+	},
+	"3-1": {
+		"itemName": "Random D.G.Egg",
+		"description": "This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.",
+		"image": "random_egg.png"
+	},
+	"3-2": {
+		"itemName": "Rare Space D.G.Egg",
+		"description": "This is a Rare Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Space type D.G.Pal.",
+		"image": "space_egg_r.png"
+	},
+	"3-3": {
+		"itemName": "Rare Elemental D.G.Egg",
+		"description": "This is a Rare Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Elemental type D.G.Pal.",
+		"image": "elemental_egg_r.png"
+	},
+	"3-4": {
+		"itemName": "Great Space D.G.Egg",
+		"description": "This is a Great Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Space type D.G.Pal.",
+		"image": "space_egg_g.png"
+	},
+	"3-5": {
+		"itemName": "Great Elemental D.G.Egg",
+		"description": "This is a Great Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Elemental type D.G.Pal.",
+		"image": "elemental_egg_g.png"
+	},
+	"3-6": {
+		"itemName": "Excellent Space D.G.Egg",
+		"description": "This is an Excellent Space D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Space type D.G.Pal.",
+		"image": "space_egg_e.png"
+	},
+	"3-7": {
+		"itemName": "Excellent Elemental D.G.Egg",
+		"description": "This is an Excellent Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Elemental type D.G.Pal.",
+		"image": "elemental_egg_e.png"
+	},
+	"3-8": {
+		"itemName": "Random Space / Elemental D.G.Egg",
+		"description": "This is a random Space / Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space / Elemental D.G.Pal NFT.",
+		"image": "elemental-space_egg.png"
+	},
+	"3-9": {
+		"itemName": "Random Dino / Nightmare D.G.Egg",
+		"description": "This is a random Dino / Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino / Nightmare D.G.Pal NFT.",
+		"image": "dino-nightmare_egg.png"
+	},
+	"4-1": {
+		"itemName": "Cracked Gaean Ruby [T1]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_1.png"
+	},
+	"4-2": {
+		"itemName": "Weathered Gaean Ruby [T2]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_2.png"
+	},
+	"4-3": {
+		"itemName": "Rough Gaean Ruby [T3]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_3.png"
+	},
+	"4-4": {
+		"itemName": "Tarnished Gaean Ruby [T4]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_4.png"
+	},
+	"4-5": {
+		"itemName": "Dull Gaean Ruby [T5]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_5.png"
+	},
+	"4-6": {
+		"itemName": "Clear Gaean Ruby [T6]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_6.png"
+	},
+	"4-7": {
+		"itemName": "Keen Gaean Ruby [T7]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_7.png"
+	},
+	"4-8": {
+		"itemName": "Polished Gaean Ruby [T8]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_8.png"
+	},
+	"4-9": {
+		"itemName": "Pristine Gaean Ruby [T9]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_9.png"
+	},
+	"4-10": {
+		"itemName": "Flawless Gaean Ruby [T10]",
+		"description": "Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_red_10.png"
+	},
+	"4-11": {
+		"itemName": "Celestial Gaean Ruby [T11]",
+		"description": "A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.",
+		"image": "gem_red_11.png"
+	},
+	"4-12": {
+		"itemName": "Divine Gaean Ruby [T12]",
+		"description": "A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.",
+		"image": "gem_red_12.png"
+	},
+	"5-1": {
+		"itemName": "Cracked Gaean Sapphire [T1]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_1.png"
+	},
+	"5-2": {
+		"itemName": "Weathered Gaean Sapphire [T2]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_2.png"
+	},
+	"5-3": {
+		"itemName": "Rough Gaean Sapphire [T3]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_3.png"
+	},
+	"5-4": {
+		"itemName": "Tarnished Gaean Sapphire [T4]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_4.png"
+	},
+	"5-5": {
+		"itemName": "Dull Gaean Sapphire [T5]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_5.png"
+	},
+	"5-6": {
+		"itemName": "Clear Gaean Sapphire [T6]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_6.png"
+	},
+	"5-7": {
+		"itemName": "Keen Gaean Sapphire [T7]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_7.png"
+	},
+	"5-8": {
+		"itemName": "Polished Gaean Sapphire [T8]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_8.png"
+	},
+	"5-9": {
+		"itemName": "Pristine Gaean Sapphire [T9]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_9.png"
+	},
+	"5-10": {
+		"itemName": "Flawless Gaean Sapphire [T10]",
+		"description": "Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_blue_10.png"
+	},
+	"5-11": {
+		"itemName": "Celestial Gaean Sapphire [T11]",
+		"description": "A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.",
+		"image": "gem_blue_11.png"
+	},
+	"5-12": {
+		"itemName": "Divine Gaean Sapphire [T12]",
+		"description": "A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.",
+		"image": "gem_blue_12.png"
+	},
+	"6-1": {
+		"itemName": "Cracked Gaean Citrine [T1]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_1.png"
+	},
+	"6-2": {
+		"itemName": "Weathered Gaean Citrine [T2]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_2.png"
+	},
+	"6-3": {
+		"itemName": "Rough Gaean Citrine [T3]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_3.png"
+	},
+	"6-4": {
+		"itemName": "Tarnished Gaean Citrine [T4]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_4.png"
+	},
+	"6-5": {
+		"itemName": "Dull Gaean Citrine [T5]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_5.png"
+	},
+	"6-6": {
+		"itemName": "Clear Gaean Citrine [T6]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_6.png"
+	},
+	"6-7": {
+		"itemName": "Keen Gaean Citrine [T7]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_7.png"
+	},
+	"6-8": {
+		"itemName": "Polished Gaean Citrine [T8]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_8.png"
+	},
+	"6-9": {
+		"itemName": "Pristine Gaean Citrine [T9]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_9.png"
+	},
+	"6-10": {
+		"itemName": "Flawless Gaean Citrine [T10]",
+		"description": "Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_yellow_10.png"
+	},
+	"6-11": {
+		"itemName": "Celestial Gaean Citrine [T11]",
+		"description": "A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.",
+		"image": "gem_yellow_11.png"
+	},
+	"6-12": {
+		"itemName": "Divine Gaean Citrine [T12]",
+		"description": "A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.",
+		"image": "gem_yellow_12.png"
+	},
+	"7-1": {
+		"itemName": "Cracked Gaean Emerald [T1]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_1.png"
+	},
+	"7-2": {
+		"itemName": "Weathered Gaean Emerald [T2]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_2.png"
+	},
+	"7-3": {
+		"itemName": "Rough Gaean Emerald [T3]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_3.png"
+	},
+	"7-4": {
+		"itemName": "Tarnished Gaean Emerald [T4]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_4.png"
+	},
+	"7-5": {
+		"itemName": "Dull Gaean Emerald [T5]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_5.png"
+	},
+	"7-6": {
+		"itemName": "Clear Gaean Emerald [T6]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_6.png"
+	},
+	"7-7": {
+		"itemName": "Keen Gaean Emerald [T7]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_7.png"
+	},
+	"7-8": {
+		"itemName": "Polished Gaean Emerald [T8]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_8.png"
+	},
+	"7-9": {
+		"itemName": "Pristine Gaean Emerald [T9]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_9.png"
+	},
+	"7-10": {
+		"itemName": "Flawless Gaean Emerald [T10]",
+		"description": "Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",
+		"image": "gem_green_10.png"
+	},
+	"7-11": {
+		"itemName": "Celestial Gaean Emerald [T11]",
+		"description": "A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.",
+		"image": "gem_green_11.png"
+	},
+	"7-12": {
+		"itemName": "Divine Gaean Emerald [T12]",
+		"description": "A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.",
+		"image": "gem_green_12.png"
+	},
+	"8-1": {
+		"itemName": "Vathmite Crystal [T1]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_1.png"
+	},
+	"8-2": {
+		"itemName": "Vathmite Crystal [T2]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_2.png"
+	},
+	"8-3": {
+		"itemName": "Vathmite Crystal [T3]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_3.png"
+	},
+	"8-4": {
+		"itemName": "Vathmite Crystal [T4]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_4.png"
+	},
+	"8-5": {
+		"itemName": "Vathmite Crystal [T5]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_5.png"
+	},
+	"8-6": {
+		"itemName": "Vathmite Crystal [T6]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_6.png"
+	},
+	"8-7": {
+		"itemName": "Vathmite Crystal [T7]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_7.png"
+	},
+	"8-8": {
+		"itemName": "Vathmite Crystal [T8]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_8.png"
+	},
+	"8-9": {
+		"itemName": "Vathmite Crystal [T9]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_9.png"
+	},
+	"8-10": {
+		"itemName": "Vathmite Crystal [T10]",
+		"description": "From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.",
+		"image": "crystal_10.png"
+	},
+	"9-1": {
+		"itemName": "Occluded Rune",
+		"description": "A swirling purple mist enshrouds this Rune. How will it enhance your Equipment stats?",
+		"image": "occluded_rune.png"
+	},
+	"10-1": {
+		"itemName": "Certification Ticket",
+		"description": "Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required.",
+		"image": "free_mint_icon.png"
+	},
+	"10-2": {
+		"itemName": "Luxe Green",
+		"description": "An invitation to trade... That's all it says on the back.",
+		"image": "luxe_green.png"
+	},
+	"10-3": {
+		"itemName": "Luxe Blue",
+		"description": "An invitation to trade... That's all it says on the back.",
+		"image": "luxe_blue.png"
+	},
+	"10-4": {
+		"itemName": "Luxe Red",
+		"description": "An invitation to trade... That's all it says on the back.",
+		"image": "luxe_red.png"
+	},
+	"10-5": {
+		"itemName": "Luxe Purple",
+		"description": "An invitation to trade... That's all it says on the back.",
+		"image": "luxe_purple.png"
+	},
+	"10-6": {
+		"itemName": "Rainbow Luxe",
+		"description": "An invitation to trade... That's all it says on the back.",
+		"image": "luxe_rainbow.png"
+	},
+	"11-1": {
+		"itemName": "Thistle Thread [T1]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_1.png"
+	},
+	"11-2": {
+		"itemName": "Thistle Thread [T2]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_2.png"
+	},
+	"11-3": {
+		"itemName": "Thistle Thread [T3]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_3.png"
+	},
+	"11-4": {
+		"itemName": "Thistle Thread [T4]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_4.png"
+	},
+	"11-5": {
+		"itemName": "Thistle Thread [T5]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_5.png"
+	},
+	"11-6": {
+		"itemName": "Thistle Thread [T6]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_6.png"
+	},
+	"11-7": {
+		"itemName": "Thistle Thread [T7]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_7.png"
+	},
+	"11-8": {
+		"itemName": "Thistle Thread [T8]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_8.png"
+	},
+	"11-9": {
+		"itemName": "Thistle Thread [T9]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_9.png"
+	},
+	"11-10": {
+		"itemName": "Thistle Thread [T10]",
+		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
+		"image": "thistleThread_10.png"
+	},
+	"12-1": {
+		"itemName": "Powdered Tears [T1]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_1.png"
+	},
+	"12-2": {
+		"itemName": "Powdered Tears [T2]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_2.png"
+	},
+	"12-3": {
+		"itemName": "Powdered Tears [T3]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_3.png"
+	},
+	"12-4": {
+		"itemName": "Powdered Tears [T4]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_4.png"
+	},
+	"12-5": {
+		"itemName": "Powdered Tears [T5]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_5.png"
+	},
+	"12-6": {
+		"itemName": "Powdered Tears [T6]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_6.png"
+	},
+	"12-7": {
+		"itemName": "Powdered Tears [T7]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_7.png"
+	},
+	"12-8": {
+		"itemName": "Powdered Tears [T8]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_8.png"
+	},
+	"12-9": {
+		"itemName": "Powdered Tears [T9]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_9.png"
+	},
+	"12-10": {
+		"itemName": "Powdered Tears [T10]",
+		"description": "From the good times and the bad. May they guide one’s decisions. Used for upgrades.",
+		"image": "powderedTears_10.png"
+	},
+	"13-1": {
+		"itemName": "Ember Oil [T1]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_1.png"
+	},
+	"13-2": {
+		"itemName": "Ember Oil [T2]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_2.png"
+	},
+	"13-3": {
+		"itemName": "Ember Oil [T3]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_3.png"
+	},
+	"13-4": {
+		"itemName": "Ember Oil [T4]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_4.png"
+	},
+	"13-5": {
+		"itemName": "Ember Oil [T5]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_5.png"
+	},
+	"13-6": {
+		"itemName": "Ember Oil [T6]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_6.png"
+	},
+	"13-7": {
+		"itemName": "Ember Oil [T7]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_7.png"
+	},
+	"13-8": {
+		"itemName": "Ember Oil [T8]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_8.png"
+	},
+	"13-9": {
+		"itemName": "Ember Oil [T9]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_9.png"
+	},
+	"13-10": {
+		"itemName": "Ember Oil [T10]",
+		"description": "From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.",
+		"image": "emberOil_10.png"
+	},
+	"14-1": {
+		"itemName": "Comet Splinter [T1]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_1.png"
+	},
+	"14-2": {
+		"itemName": "Comet Splinter [T2]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_2.png"
+	},
+	"14-3": {
+		"itemName": "Comet Splinter [T3]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_3.png"
+	},
+	"14-4": {
+		"itemName": "Comet Splinter [T4]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_4.png"
+	},
+	"14-5": {
+		"itemName": "Comet Splinter [T5]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_5.png"
+	},
+	"14-6": {
+		"itemName": "Comet Splinter [T6]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_6.png"
+	},
+	"14-7": {
+		"itemName": "Comet Splinter [T7]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_7.png"
+	},
+	"14-8": {
+		"itemName": "Comet Splinter [T8]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_8.png"
+	},
+	"14-9": {
+		"itemName": "Comet Splinter [T9]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_9.png"
+	},
+	"14-10": {
+		"itemName": "Comet Splinter [T10]",
+		"description": "From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades.",
+		"image": "cometSplinter_10.png"
+	},
+	"15-1": {
+		"itemName": "Sugar Doughnut",
+		"description": "A good ole doughnut that increases the EXP of any one Pal by 250.",
+		"image": ""
+	},
+	"15-2": {
+		"itemName": "Glazed Doughnut",
+		"description": "Glazed with a milky vanilla coating, this doughnut increases the EXP of any one Pal by 1000.",
+		"image": ""
+	},
+	"15-3": {
+		"itemName": "Rainfetti Doughnut",
+		"description": "Topped with rainbow sprinkles, this doughnut increases the EXP of any one Pal by 2000.",
+		"image": ""
+	},
+	"15-4": {
+		"itemName": "Arena Espresso",
+		"description": "A potent shot of coffee that fast-tracks any one Pal to Level 15.",
+		"image": ""
+	},
+	"15-5": {
+		"itemName": "Arena Latte",
+		"description": "Seductively smooth coffee that fast-tracks any one Pal to Level 30.",
+		"image": ""
+	}
+}
