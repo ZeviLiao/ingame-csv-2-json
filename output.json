@@ -119,6 +119,46 @@
 		"description": "Calling all avid adventurers! Unleash your full potential with this Premium Island Crate! Contains quality mystical resources that will help you and your Clan emerge victorious!",
 		"image": "island_crate_premium.png"
 	},
+	"2-21": {
+		"itemName": "Material Sack [T1]",
+		"description": "A sackful of various upgrade materials [T1]. Contains 50 Vathmite Crystals and 20 sets of the following: Thistle Thread, Powdered Tears, Ember Oil and Comet Splinter.",
+		"image": ""
+	},
+	"2-22": {
+		"itemName": "Material Sack [T2]",
+		"description": "A sackful of various upgrade materials [T2]. Contains 50 Vathmite Crystals and 20 sets of the following: Thistle Thread, Powdered Tears, Ember Oil and Comet Splinter.",
+		"image": ""
+	},
+	"2-23": {
+		"itemName": "Material Sack [T3]",
+		"description": "A sackful of various upgrade materials [T3]. Contains 50 Vathmite Crystals and 20 sets of the following: Thistle Thread, Powdered Tears, Ember Oil and Comet Splinter.",
+		"image": ""
+	},
+	"2-24": {
+		"itemName": "Material Sack [T4]",
+		"description": "A sackful of various upgrade materials [T4]. Contains 50 Vathmite Crystals and 20 sets of the following: Thistle Thread, Powdered Tears, Ember Oil and Comet Splinter.",
+		"image": ""
+	},
+	"2-25": {
+		"itemName": "Gem Pouch [T1]",
+		"description": "A velvet pouch filled with Cracked Gaean Gems [T1]. Contains 20 each of the following: Rubies, Sapphires, Citrines and Emeralds.",
+		"image": ""
+	},
+	"2-26": {
+		"itemName": "Gem Pouch [T2]",
+		"description": "A velvet pouch filled with Weathered Gaean Gems [T2]. Contains 20 each of the following: Rubies, Sapphires, Citrines and Emeralds.",
+		"image": ""
+	},
+	"2-27": {
+		"itemName": "Gem Pouch [T3]",
+		"description": "A velvet pouch filled with Rough Gaean Gems [T3]. Contains 20 each of the following: Rubies, Sapphires, Citrines and Emeralds.",
+		"image": ""
+	},
+	"2-28": {
+		"itemName": "Gem Pouch [T4]",
+		"description": "A velvet pouch filled with Tarnished Gaean Gems [T4]. Contains 20 each of the following: Rubies, Sapphires, Citrines and Emeralds.",
+		"image": ""
+	},
 	"3-1": {
 		"itemName": "Random D.G.Egg",
 		"description": "This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.",
@@ -167,52 +207,52 @@
 	"3-10": {
 		"itemName": "Magic D.G.Egg",
 		"description": "This is a random Magic D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Magic D.G.Pal NFT.",
-		"image": ""
+		"image": "random_magic_egg.png"
 	},
 	"3-11": {
 		"itemName": "Horror D.G.Egg",
 		"description": "This is a random Horror D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Horror D.G.Pal NFT.",
-		"image": ""
+		"image": "random_horror_egg.png"
 	},
 	"3-12": {
 		"itemName": "Marine D.G.Egg",
 		"description": "This is a random Marine D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Marine D.G.Pal NFT.",
-		"image": ""
+		"image": "random_marine_egg.png"
 	},
 	"3-13": {
 		"itemName": "Scaly D.G.Egg",
 		"description": "This is a random Scaly D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Scaly D.G.Pal NFT.",
-		"image": ""
+		"image": "random_scaly_egg.png"
 	},
 	"3-14": {
 		"itemName": "Flora D.G.Egg",
 		"description": "This is a random Flora D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Flora D.G.Pal NFT.",
-		"image": ""
+		"image": "random_flora_egg.png"
 	},
 	"3-15": {
 		"itemName": "Sky D.G.Egg",
 		"description": "This is a random Sky D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Sky D.G.Pal NFT.",
-		"image": ""
+		"image": "random_sky_egg.png"
 	},
 	"3-16": {
 		"itemName": "Space D.G.Egg",
 		"description": "This is a random Space D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space D.G.Pal NFT.",
-		"image": ""
+		"image": "random_space_egg.png"
 	},
 	"3-17": {
 		"itemName": "Elemental D.G.Egg",
 		"description": "This is a random Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Elemental D.G.Pal NFT.",
-		"image": ""
+		"image": "random_elemental_egg.png"
 	},
 	"3-18": {
 		"itemName": "Dino D.G.Egg",
 		"description": "This is a random Dino D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino D.G.Pal NFT.",
-		"image": ""
+		"image": "random_dino_egg.png"
 	},
 	"3-19": {
 		"itemName": "Nightmare D.G.Egg",
 		"description": "This is a random Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Nightmare D.G.Pal NFT.",
-		"image": ""
+		"image": "random_nightmare_egg.png"
 	},
 	"4-1": {
 		"itemName": "Cracked Gaean Ruby [T1]",
