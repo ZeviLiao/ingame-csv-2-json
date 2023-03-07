@@ -104,6 +104,21 @@
 		"description": "Aspiring Legends, this one’s for you! Gain an edge over your opponents with this Premium Arena Crate and take the competition by storm! Contains quality upgrade materials [T6-T10] and a higher chance of Equipment.  (Receive 50 Dark Sentinel Badges.)",
 		"image": "arena_crate_premium.png"
 	},
+	"2-18": {
+		"itemName": "Classic Island Crate",
+		"description": "Ah hah! This Classic Island Crate is bound to come in handy for your adventure. Contains various mystical resources.",
+		"image": "island_crate_classic.png"
+	},
+	"2-19": {
+		"itemName": "Deluxe Island Crate",
+		"description": "Clearing rifts can be real rough! Increase your odds with this Deluxe Island Crate! Contains a significant amount of mystical resources.",
+		"image": "island_crate_deluxe.png"
+	},
+	"2-20": {
+		"itemName": "Premium Island Crate",
+		"description": "Calling all avid adventurers! Unleash your full potential with this Premium Island Crate! Contains quality mystical resources that will help you and your Clan emerge victorious!",
+		"image": "island_crate_premium.png"
+	},
 	"3-1": {
 		"itemName": "Random D.G.Egg",
 		"description": "This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.",
@@ -148,6 +163,56 @@
 		"itemName": "Random Dino / Nightmare D.G.Egg",
 		"description": "This is a random Dino / Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino / Nightmare D.G.Pal NFT.",
 		"image": "dino-nightmare_egg.png"
+	},
+	"3-10": {
+		"itemName": "Magic D.G.Egg",
+		"description": "This is a random Magic D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Magic D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-11": {
+		"itemName": "Horror D.G.Egg",
+		"description": "This is a random Horror D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Horror D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-12": {
+		"itemName": "Marine D.G.Egg",
+		"description": "This is a random Marine D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Marine D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-13": {
+		"itemName": "Scaly D.G.Egg",
+		"description": "This is a random Scaly D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Scaly D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-14": {
+		"itemName": "Flora D.G.Egg",
+		"description": "This is a random Flora D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Flora D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-15": {
+		"itemName": "Sky D.G.Egg",
+		"description": "This is a random Sky D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Sky D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-16": {
+		"itemName": "Space D.G.Egg",
+		"description": "This is a random Space D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-17": {
+		"itemName": "Elemental D.G.Egg",
+		"description": "This is a random Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Elemental D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-18": {
+		"itemName": "Dino D.G.Egg",
+		"description": "This is a random Dino D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino D.G.Pal NFT.",
+		"image": ""
+	},
+	"3-19": {
+		"itemName": "Nightmare D.G.Egg",
+		"description": "This is a random Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Nightmare D.G.Pal NFT.",
+		"image": ""
 	},
 	"4-1": {
 		"itemName": "Cracked Gaean Ruby [T1]",
@@ -474,6 +539,16 @@
 		"description": "An invitation to trade... That's all it says on the back.",
 		"image": "luxe_rainbow.png"
 	},
+	"10-7": {
+		"itemName": "Mount Ticket",
+		"description": "Golly! These are unbelievably difficult to obtain! Well done, you! Head over to Impossible Plaza to redeem it for an exclusive NFT Mount!",
+		"image": "mount_ticket.png"
+	},
+	"10-8": {
+		"itemName": "Impossible Ticket",
+		"description": "What could these possibly be exchanged for? Collect as many as you can and find out in Impossible Plaza!",
+		"image": "impossible_ticket.png"
+	},
 	"11-1": {
 		"itemName": "Thistle Thread [T1]",
 		"description": "From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.",
@@ -698,5 +773,10 @@
 		"itemName": "Arena Latte",
 		"description": "Seductively smooth coffee that fast-tracks any one Pal to Level 30.",
 		"image": ""
+	},
+	"16-1": {
+		"itemName": "Impossible Blueprint",
+		"description": "Whoever drew these up is either a genius or has a screw loose. Who could possibly decipher those scribbles? Then again, one never knows in Impossible Plaza.",
+		"image": "impossible_blueprint.png"
 	}
 }

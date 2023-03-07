@@ -1,161 +1,135 @@
-Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark,
-4,Ruby (Red Gem),1,Ruby (Red Gem) - Tier 1,,Cracked Gaean Ruby [T1],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_1.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),2,Ruby (Red Gem) - Tier 2,,Weathered Gaean Ruby [T2],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_2.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),3,Ruby (Red Gem) - Tier 3,,Rough Gaean Ruby [T3],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_3.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),4,Ruby (Red Gem) - Tier 4,,Tarnished Gaean Ruby [T4],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_4.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),5,Ruby (Red Gem) - Tier 5,,Dull Gaean Ruby [T5],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_5.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),6,Ruby (Red Gem) - Tier 6,,Clear Gaean Ruby [T6],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_6.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),7,Ruby (Red Gem) - Tier 7,,Keen Gaean Ruby [T7],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_7.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),8,Ruby (Red Gem) - Tier 8,,Polished Gaean Ruby [T8],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_8.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),9,Ruby (Red Gem) - Tier 9,,Pristine Gaean Ruby [T9],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_9.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),10,Ruby (Red Gem) - Tier 10,,Flawless Gaean Ruby [T10],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_10.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),11,Ruby (Red Gem) - Tier 11,,Celestial Gaean Ruby [T11],A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.,gem_red_11.png,2023/Jan update,pending for some icon images to change
-4,Ruby (Red Gem),12,Ruby (Red Gem) - Tier 12,,Divine Gaean Ruby [T12],A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.,gem_red_12.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),1,Sapphire (Blue Gem) - Tier 1,,Cracked Gaean Sapphire [T1],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_1.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),2,Sapphire (Blue Gem) - Tier 2,,Weathered Gaean Sapphire [T2],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_2.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),3,Sapphire (Blue Gem) - Tier 3,,Rough Gaean Sapphire [T3],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_3.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),4,Sapphire (Blue Gem) - Tier 4,,Tarnished Gaean Sapphire [T4],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_4.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),5,Sapphire (Blue Gem) - Tier 5,,Dull Gaean Sapphire [T5],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_5.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),6,Sapphire (Blue Gem) - Tier 6,,Clear Gaean Sapphire [T6],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_6.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),7,Sapphire (Blue Gem) - Tier 7,,Keen Gaean Sapphire [T7],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_7.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),8,Sapphire (Blue Gem) - Tier 8,,Polished Gaean Sapphire [T8],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_8.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),9,Sapphire (Blue Gem) - Tier 9,,Pristine Gaean Sapphire [T9],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_9.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),10,Sapphire (Blue Gem) - Tier 10,,Flawless Gaean Sapphire [T10],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_10.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),11,Sapphire (Blue Gem) - Tier 11,,Celestial Gaean Sapphire [T11],A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.,gem_blue_11.png,2023/Jan update,pending for some icon images to change
-5,Sapphire (Blue Gem),12,Sapphire (Blue Gem) - Tier 12,,Divine Gaean Sapphire [T12],A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.,gem_blue_12.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),1,Citrine (Yellow Gem) - Tier 1,,Cracked Gaean Citrine [T1],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_1.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),2,Citrine (Yellow Gem) - Tier 2,,Weathered Gaean Citrine [T2],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_2.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),3,Citrine (Yellow Gem) - Tier 3,,Rough Gaean Citrine [T3],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_3.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),4,Citrine (Yellow Gem) - Tier 4,,Tarnished Gaean Citrine [T4],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_4.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),5,Citrine (Yellow Gem) - Tier 5,,Dull Gaean Citrine [T5],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_5.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),6,Citrine (Yellow Gem) - Tier 6,,Clear Gaean Citrine [T6],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_6.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),7,Citrine (Yellow Gem) - Tier 7,,Keen Gaean Citrine [T7],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_7.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),8,Citrine (Yellow Gem) - Tier 8,,Polished Gaean Citrine [T8],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_8.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),9,Citrine (Yellow Gem) - Tier 9,,Pristine Gaean Citrine [T9],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_9.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),10,Citrine (Yellow Gem) - Tier 10,,Flawless Gaean Citrine [T10],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_10.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),11,Citrine (Yellow Gem) - Tier 11,,Celestial Gaean Citrine [T11],"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.
-",gem_yellow_11.png,2023/Jan update,pending for some icon images to change
-6,Citrine (Yellow Gem),12,Citrine (Yellow Gem) - Tier 12,,Divine Gaean Citrine [T12],"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.
-",gem_yellow_12.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",1,Emerald (Green Gem) - Tier 1,,Cracked Gaean Emerald [T1],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_1.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",2,Emerald (Green Gem) - Tier 2,,Weathered Gaean Emerald [T2],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_2.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",3,Emerald (Green Gem) - Tier 3,,Rough Gaean Emerald [T3],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_3.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",4,Emerald (Green Gem) - Tier 4,,Tarnished Gaean Emerald [T4],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_4.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",5,Emerald (Green Gem) - Tier 5,,Dull Gaean Emerald [T5],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_5.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",6,Emerald (Green Gem) - Tier 6,,Clear Gaean Emerald [T6],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_6.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",7,Emerald (Green Gem) - Tier 7,,Keen Gaean Emerald [T7],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_7.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",8,Emerald (Green Gem) - Tier 8,,Polished Gaean Emerald [T8],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_8.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",9,Emerald (Green Gem) - Tier 9,,Pristine Gaean Emerald [T9],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_9.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",10,Emerald (Green Gem) - Tier 10,,Flawless Gaean Emerald [T10],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_10.png,2023/Jan update,pending for some icon images to change
-7,"Emerald (Green Gem)
-",11,Emerald (Green Gem) - Tier 11,,Celestial Gaean Emerald [T11],"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.
-",gem_green_11.png,removed,
-7,"Emerald (Green Gem)
-",12,Emerald (Green Gem) - Tier 12,,Divine Gaean Emerald [T12],"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.
-",gem_green_12.png,removed,
-8,"Crystals
-",1,Crystal 1,,Vathmite Crystal [T1],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_1.png,2023/Feb update,
-8,"Crystals
-",2,Crystal 2,,Vathmite Crystal [T2],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_2.png,2023/Feb update,
-8,"Crystals
-",3,Crystal 3,,Vathmite Crystal [T3],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_3.png,2023/Feb update,
-8,"Crystals
-",4,Crystal 4,,Vathmite Crystal [T4],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_4.png,2023/Feb update,
-8,"Crystals
-",5,Crystal 5,,Vathmite Crystal [T5],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_5.png,2023/Feb update,
-8,"Crystals
-",6,Crystal 6,,Vathmite Crystal [T6],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_6.png,2023/Feb update,
-8,"Crystals
-",7,Crystal 7,,Vathmite Crystal [T7],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_7.png,2023/Feb update,
-8,"Crystals
-",8,Crystal 8,,Vathmite Crystal [T8],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_8.png,2023/Feb update,
-8,"Crystals
-",9,Crystal 9,,Vathmite Crystal [T9],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_9.png,2023/Feb update,
-8,"Crystals
-",10,Crystal 10,,Vathmite Crystal [T10],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_10.png,2023/Feb update,
-9,Rune Pouch,1,Occluded Rune,,Occluded Rune,A swirling purple mist enshrouds this Rune. How will it enhance your Equipment stats?,occluded_rune.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,1,Thistle Thread - Tier 1,,Thistle Thread [T1],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_1.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,2,Thistle Thread - Tier 2,,Thistle Thread [T2],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_2.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,3,Thistle Thread - Tier 3,,Thistle Thread [T3],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_3.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,4,Thistle Thread - Tier 4,,Thistle Thread [T4],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_4.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,5,Thistle Thread - Tier 5,,Thistle Thread [T5],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_5.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,6,Thistle Thread - Tier 6,,Thistle Thread [T6],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_6.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,7,Thistle Thread - Tier 7,,Thistle Thread [T7],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_7.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,8,Thistle Thread - Tier 8,,Thistle Thread [T8],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_8.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,9,Thistle Thread - Tier 9,,Thistle Thread [T9],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_9.png,2023/Jan update,
-11,Upgrade Material - Thistle Thread,10,Thistle Thread - Tier 10,,Thistle Thread [T10],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_10.png,2023/Jan update,
+Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark,Used In ID,Used In Name,Usage No(by design team),Usage Name(by design team)
+4,Ruby (Red Gem),1,Ruby (Red Gem) - Tier 1,,Cracked Gaean Ruby [T1],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_1.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),2,Ruby (Red Gem) - Tier 2,,Weathered Gaean Ruby [T2],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_2.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),3,Ruby (Red Gem) - Tier 3,,Rough Gaean Ruby [T3],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_3.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),4,Ruby (Red Gem) - Tier 4,,Tarnished Gaean Ruby [T4],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_4.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),5,Ruby (Red Gem) - Tier 5,,Dull Gaean Ruby [T5],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_5.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),6,Ruby (Red Gem) - Tier 6,,Clear Gaean Ruby [T6],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_6.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),7,Ruby (Red Gem) - Tier 7,,Keen Gaean Ruby [T7],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_7.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),8,Ruby (Red Gem) - Tier 8,,Polished Gaean Ruby [T8],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_8.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),9,Ruby (Red Gem) - Tier 9,,Pristine Gaean Ruby [T9],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_9.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),10,Ruby (Red Gem) - Tier 10,,Flawless Gaean Ruby [T10],"Infused with Gaea’s might, this Ruby adds STR to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_red_10.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),11,Ruby (Red Gem) - Tier 11,,Celestial Gaean Ruby [T11],A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.,gem_red_11.png,2023/Jan update,2,Legends,5,Gems
+4,Ruby (Red Gem),12,Ruby (Red Gem) - Tier 12,,Divine Gaean Ruby [T12],A precious stone infused with the might of Gaea. It can be used to change the secondary attribute of any Equipment to STR.,gem_red_12.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),1,Sapphire (Blue Gem) - Tier 1,,Cracked Gaean Sapphire [T1],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_1.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),2,Sapphire (Blue Gem) - Tier 2,,Weathered Gaean Sapphire [T2],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_2.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),3,Sapphire (Blue Gem) - Tier 3,,Rough Gaean Sapphire [T3],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_3.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),4,Sapphire (Blue Gem) - Tier 4,,Tarnished Gaean Sapphire [T4],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_4.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),5,Sapphire (Blue Gem) - Tier 5,,Dull Gaean Sapphire [T5],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_5.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),6,Sapphire (Blue Gem) - Tier 6,,Clear Gaean Sapphire [T6],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_6.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),7,Sapphire (Blue Gem) - Tier 7,,Keen Gaean Sapphire [T7],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_7.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),8,Sapphire (Blue Gem) - Tier 8,,Polished Gaean Sapphire [T8],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_8.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),9,Sapphire (Blue Gem) - Tier 9,,Pristine Gaean Sapphire [T9],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_9.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),10,Sapphire (Blue Gem) - Tier 10,,Flawless Gaean Sapphire [T10],"Infused with Gaea’s wisdom, this Sapphire adds INT to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_blue_10.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),11,Sapphire (Blue Gem) - Tier 11,,Celestial Gaean Sapphire [T11],A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.,gem_blue_11.png,2023/Jan update,2,Legends,5,Gems
+5,Sapphire (Blue Gem),12,Sapphire (Blue Gem) - Tier 12,,Divine Gaean Sapphire [T12],A precious stone infused with the wisdom of Gaea. It can be used to change the secondary attribute of any Equipment to INT.,gem_blue_12.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),1,Citrine (Yellow Gem) - Tier 1,,Cracked Gaean Citrine [T1],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_1.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),2,Citrine (Yellow Gem) - Tier 2,,Weathered Gaean Citrine [T2],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_2.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),3,Citrine (Yellow Gem) - Tier 3,,Rough Gaean Citrine [T3],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_3.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),4,Citrine (Yellow Gem) - Tier 4,,Tarnished Gaean Citrine [T4],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_4.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),5,Citrine (Yellow Gem) - Tier 5,,Dull Gaean Citrine [T5],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_5.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),6,Citrine (Yellow Gem) - Tier 6,,Clear Gaean Citrine [T6],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_6.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),7,Citrine (Yellow Gem) - Tier 7,,Keen Gaean Citrine [T7],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_7.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),8,Citrine (Yellow Gem) - Tier 8,,Polished Gaean Citrine [T8],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_8.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),9,Citrine (Yellow Gem) - Tier 9,,Pristine Gaean Citrine [T9],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_9.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),10,Citrine (Yellow Gem) - Tier 10,,Flawless Gaean Citrine [T10],"Infused with Gaea’s speed, this Citrine adds AGI to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_yellow_10.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),11,Citrine (Yellow Gem) - Tier 11,,Celestial Gaean Citrine [T11],"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.",gem_yellow_11.png,2023/Jan update,2,Legends,5,Gems
+6,Citrine (Yellow Gem),12,Citrine (Yellow Gem) - Tier 12,,Divine Gaean Citrine [T12],"A precious stone infused with the speed of Gaea. It can be used to change the secondary attribute of any Equipment to AGI.",gem_yellow_12.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",1,Emerald (Green Gem) - Tier 1,,Cracked Gaean Emerald [T1],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_1.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",2,Emerald (Green Gem) - Tier 2,,Weathered Gaean Emerald [T2],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_2.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",3,Emerald (Green Gem) - Tier 3,,Rough Gaean Emerald [T3],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_3.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",4,Emerald (Green Gem) - Tier 4,,Tarnished Gaean Emerald [T4],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_4.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",5,Emerald (Green Gem) - Tier 5,,Dull Gaean Emerald [T5],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_5.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",6,Emerald (Green Gem) - Tier 6,,Clear Gaean Emerald [T6],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_6.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",7,Emerald (Green Gem) - Tier 7,,Keen Gaean Emerald [T7],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_7.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",8,Emerald (Green Gem) - Tier 8,,Polished Gaean Emerald [T8],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_8.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",9,Emerald (Green Gem) - Tier 9,,Pristine Gaean Emerald [T9],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_9.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",10,Emerald (Green Gem) - Tier 10,,Flawless Gaean Emerald [T10],"Infused with Gaea’s resilience, this Emerald adds DEF to any piece of Equipment. The more powerful your Equipment is, the stronger the gem’s influence will be.",gem_green_10.png,2023/Jan update,2,Legends,5,Gems
+7,"Emerald (Green Gem)",11,Emerald (Green Gem) - Tier 11,,Celestial Gaean Emerald [T11],"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.",gem_green_11.png,removed,,,,
+7,"Emerald (Green Gem)",12,Emerald (Green Gem) - Tier 12,,Divine Gaean Emerald [T12],"A precious stone infused with the resilience of Gaea. It can be used to change the secondary attribute of any Equipment to DEF.",gem_green_12.png,removed,,,,
+8,"Crystals",1,Crystal 1,,Vathmite Crystal [T1],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_1.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",2,Crystal 2,,Vathmite Crystal [T2],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_2.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",3,Crystal 3,,Vathmite Crystal [T3],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_3.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",4,Crystal 4,,Vathmite Crystal [T4],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_4.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",5,Crystal 5,,Vathmite Crystal [T5],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_5.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",6,Crystal 6,,Vathmite Crystal [T6],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_6.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",7,Crystal 7,,Vathmite Crystal [T7],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_7.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",8,Crystal 8,,Vathmite Crystal [T8],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_8.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",9,Crystal 9,,Vathmite Crystal [T9],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_9.png,2023/Feb update,2,Legends,7,Upgrade Materials
+8,"Crystals",10,Crystal 10,,Vathmite Crystal [T10],From a long-forgotten war. May it sing of one’s legacy. Used for upgrades.,crystal_10.png,2023/Feb update,2,Legends,7,Upgrade Materials
+9,Rune Pouch,1,Occluded Rune,,Occluded Rune,A swirling purple mist enshrouds this Rune. How will it enhance your Equipment stats?,occluded_rune.png,2023/Jan update,2,Legends,6,Rune
+11,Upgrade Material - Thistle Thread,1,Thistle Thread - Tier 1,,Thistle Thread [T1],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_1.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,2,Thistle Thread - Tier 2,,Thistle Thread [T2],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_2.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,3,Thistle Thread - Tier 3,,Thistle Thread [T3],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_3.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,4,Thistle Thread - Tier 4,,Thistle Thread [T4],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_4.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,5,Thistle Thread - Tier 5,,Thistle Thread [T5],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_5.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,6,Thistle Thread - Tier 6,,Thistle Thread [T6],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_6.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,7,Thistle Thread - Tier 7,,Thistle Thread [T7],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_7.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,8,Thistle Thread - Tier 8,,Thistle Thread [T8],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_8.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,9,Thistle Thread - Tier 9,,Thistle Thread [T9],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_9.png,2023/Jan update,2,Legends,7,Upgrade Materials
+11,Upgrade Material - Thistle Thread,10,Thistle Thread - Tier 10,,Thistle Thread [T10],From a resilient plant with deep roots. May it add to one’s resolve. Used for upgrades.,thistleThread_10.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",1,Powdered Tears - Tier 1,,Powdered Tears [T1],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_1.png,2023/Jan update,
+Powdered Tears",1,Powdered Tears - Tier 1,,Powdered Tears [T1],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_1.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",2,Powdered Tears - Tier 2,,Powdered Tears [T2],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_2.png,2023/Jan update,
+Powdered Tears",2,Powdered Tears - Tier 2,,Powdered Tears [T2],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_2.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",3,Powdered Tears - Tier 3,,Powdered Tears [T3],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_3.png,2023/Jan update,
+Powdered Tears",3,Powdered Tears - Tier 3,,Powdered Tears [T3],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_3.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",4,Powdered Tears - Tier 4,,Powdered Tears [T4],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_4.png,2023/Jan update,
+Powdered Tears",4,Powdered Tears - Tier 4,,Powdered Tears [T4],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_4.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",5,Powdered Tears - Tier 5,,Powdered Tears [T5],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_5.png,2023/Jan update,
+Powdered Tears",5,Powdered Tears - Tier 5,,Powdered Tears [T5],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_5.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",6,Powdered Tears - Tier 6,,Powdered Tears [T6],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_6.png,2023/Jan update,
+Powdered Tears",6,Powdered Tears - Tier 6,,Powdered Tears [T6],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_6.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",7,Powdered Tears - Tier 7,,Powdered Tears [T7],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_7.png,2023/Jan update,
+Powdered Tears",7,Powdered Tears - Tier 7,,Powdered Tears [T7],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_7.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",8,Powdered Tears - Tier 8,,Powdered Tears [T8],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_8.png,2023/Jan update,
+Powdered Tears",8,Powdered Tears - Tier 8,,Powdered Tears [T8],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_8.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",9,Powdered Tears - Tier 9,,Powdered Tears [T9],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_9.png,2023/Jan update,
+Powdered Tears",9,Powdered Tears - Tier 9,,Powdered Tears [T9],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_9.png,2023/Jan update,2,Legends,7,Upgrade Materials
 12,"Upgrade Material - 
-Powdered Tears",10,Powdered Tears - Tier 10,,Powdered Tears [T10],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_10.png,2023/Jan update,
+Powdered Tears",10,Powdered Tears - Tier 10,,Powdered Tears [T10],From the good times and the bad. May they guide one’s decisions. Used for upgrades.,powderedTears_10.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",1,Ember Oil - Tier 1,,Ember Oil [T1],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_1.png,2023/Jan update,
+Ember Oil",1,Ember Oil - Tier 1,,Ember Oil [T1],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_1.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",2,Ember Oil - Tier 2,,Ember Oil [T2],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_2.png,2023/Jan update,
+Ember Oil",2,Ember Oil - Tier 2,,Ember Oil [T2],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_2.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",3,Ember Oil - Tier 3,,Ember Oil [T3],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_3.png,2023/Jan update,
+Ember Oil",3,Ember Oil - Tier 3,,Ember Oil [T3],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_3.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",4,Ember Oil - Tier 4,,Ember Oil [T4],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_4.png,2023/Jan update,
+Ember Oil",4,Ember Oil - Tier 4,,Ember Oil [T4],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_4.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",5,Ember Oil - Tier 5,,Ember Oil [T5],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_5.png,2023/Jan update,
+Ember Oil",5,Ember Oil - Tier 5,,Ember Oil [T5],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_5.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",6,Ember Oil - Tier 6,,Ember Oil [T6],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_6.png,2023/Jan update,
+Ember Oil",6,Ember Oil - Tier 6,,Ember Oil [T6],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_6.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",7,Ember Oil - Tier 7,,Ember Oil [T7],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_7.png,2023/Jan update,
+Ember Oil",7,Ember Oil - Tier 7,,Ember Oil [T7],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_7.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",8,Ember Oil - Tier 8,,Ember Oil [T8],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_8.png,2023/Jan update,
+Ember Oil",8,Ember Oil - Tier 8,,Ember Oil [T8],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_8.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",9,Ember Oil - Tier 9,,Ember Oil [T9],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_9.png,2023/Jan update,
+Ember Oil",9,Ember Oil - Tier 9,,Ember Oil [T9],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_9.png,2023/Jan update,2,Legends,7,Upgrade Materials
 13,"Upgrade Material - 
-Ember Oil",10,Ember Oil - Tier 10,,Ember Oil [T10],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_10.png,2023/Jan update,
+Ember Oil",10,Ember Oil - Tier 10,,Ember Oil [T10],From the glowing remains of an ancient fire. May it rekindle one’s spirit. Used for upgrades.,emberOil_10.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",1,Comet Splinter - Tier 1,,Comet Splinter [T1],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_1.png,2023/Jan update,
+Comet Splinter",1,Comet Splinter - Tier 1,,Comet Splinter [T1],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_1.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",2,Comet Splinter - Tier 2,,Comet Splinter [T2],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_2.png,2023/Jan update,
+Comet Splinter",2,Comet Splinter - Tier 2,,Comet Splinter [T2],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_2.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",3,Comet Splinter - Tier 3,,Comet Splinter [T3],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_3.png,2023/Jan update,
+Comet Splinter",3,Comet Splinter - Tier 3,,Comet Splinter [T3],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_3.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",4,Comet Splinter - Tier 4,,Comet Splinter [T4],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_4.png,2023/Jan update,
+Comet Splinter",4,Comet Splinter - Tier 4,,Comet Splinter [T4],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_4.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",5,Comet Splinter - Tier 5,,Comet Splinter [T5],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_5.png,2023/Jan update,
+Comet Splinter",5,Comet Splinter - Tier 5,,Comet Splinter [T5],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_5.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",6,Comet Splinter - Tier 6,,Comet Splinter [T6],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_6.png,2023/Jan update,
+Comet Splinter",6,Comet Splinter - Tier 6,,Comet Splinter [T6],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_6.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",7,Comet Splinter - Tier 7,,Comet Splinter [T7],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_7.png,2023/Jan update,
+Comet Splinter",7,Comet Splinter - Tier 7,,Comet Splinter [T7],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_7.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",8,Comet Splinter - Tier 8,,Comet Splinter [T8],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_8.png,2023/Jan update,
+Comet Splinter",8,Comet Splinter - Tier 8,,Comet Splinter [T8],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_8.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",9,Comet Splinter - Tier 9,,Comet Splinter [T9],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_9.png,2023/Jan update,
+Comet Splinter",9,Comet Splinter - Tier 9,,Comet Splinter [T9],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_9.png,2023/Jan update,2,Legends,7,Upgrade Materials
 14,"Upgrade Material - 
-Comet Splinter",10,Comet Splinter - Tier 10,,Comet Splinter [T10],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_10.png,2023/Jan update,
-15,Consumable - DGP EXP & Level Up,1,Consumable 1,,Sugar Doughnut,A good ole doughnut that increases the EXP of any one Pal by 250.,,2023/Feb update,
-15,Consumable - DGP EXP & Level Up,2,Consumable 2,,Glazed Doughnut,"Glazed with a milky vanilla coating, this doughnut increases the EXP of any one Pal by 1000.",,2023/Feb update,
-15,Consumable - DGP EXP & Level Up,3,Consumable 3,,Rainfetti Doughnut,"Topped with rainbow sprinkles, this doughnut increases the EXP of any one Pal by 2000.",,2023/Feb update,
-15,Consumable - DGP EXP & Level Up,4,Consumable 4,,Arena Espresso,A potent shot of coffee that fast-tracks any one Pal to Level 15.,,2023/Feb update,
-15,Consumable - DGP EXP & Level Up,5,Consumable 5,,Arena Latte,Seductively smooth coffee that fast-tracks any one Pal to Level 30.,,2023/Feb update,
+Comet Splinter",10,Comet Splinter - Tier 10,,Comet Splinter [T10],"From a fleeting marvel of ice, dust and light. May it spark one’s ingenuity. Used for upgrades. ",cometSplinter_10.png,2023/Jan update,2,Legends,7,Upgrade Materials
+15,Consumable - DGP EXP & Level Up,1,Consumable 1,,Sugar Doughnut,A good ole doughnut that increases the EXP of any one Pal by 250.,,2023/Feb update,2,Legends,8,Consumables
+15,Consumable - DGP EXP & Level Up,2,Consumable 2,,Glazed Doughnut,"Glazed with a milky vanilla coating, this doughnut increases the EXP of any one Pal by 1000.",,2023/Feb update,2,Legends,8,Consumables
+15,Consumable - DGP EXP & Level Up,3,Consumable 3,,Rainfetti Doughnut,"Topped with rainbow sprinkles, this doughnut increases the EXP of any one Pal by 2000.",,2023/Feb update,2,Legends,8,Consumables
+15,Consumable - DGP EXP & Level Up,4,Consumable 4,,Arena Espresso,A potent shot of coffee that fast-tracks any one Pal to Level 15.,,2023/Feb update,2,Legends,8,Consumables
+15,Consumable - DGP EXP & Level Up,5,Consumable 5,,Arena Latte,Seductively smooth coffee that fast-tracks any one Pal to Level 30.,,2023/Feb update,2,Legends,8,Consumables

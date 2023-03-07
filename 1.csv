@@ -1,56 +1,70 @@
-Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark,
-1,Coin,1,DGG,,D.G.Gold ,"Our very own CRC-20 governance token. Use this precious currency to stake, earn D.G.Pal eggs, mint NFTs, and access exclusive content!",dgg.png,,
-1,Coin,2,OPL,,Panterra Opal,"The common currency used by D.G.Pals, Panterra Opals can be traded with other Explorers and used for a wide range of activities.",opl.png,,
-1,Coin,3,Black Badge  - for Legends Store use,,Dark Sentinel Badge,"A badge of glory for those who spare no expense, whether it be offence or defence. Gather enough and find favour with the Dark Sentinels.",black_badge.png,2023/March update,
-1,Coin,4,White Badge  - for Legends Store use,,Light Sentinel Badge,A badge of honour for those who burn the midnight oil and daily make that uphill toil. Gather enough and find favour with the Light Sentinels.,white_badge.png,2023/March update,
+Cate No,Category,Type No,Reward Type,Image,Title,Details,Image Name,Remark,Used In ID,Used In Name,Usage No(by design team),Usage Name(by design team)
+1,Coin,1,DGG,,D.G.Gold ,"Our very own CRC-20 governance token. Use this precious currency to stake, earn D.G.Pal eggs, mint NFTs, and access exclusive content!",dgg.png,,0,General,1,Currency
+1,Coin,2,OPL,,Panterra Opal,"The common currency used by D.G.Pals, Panterra Opals can be traded with other Explorers and used for a wide range of activities.",opl.png,,0,General,1,Currency
+1,Coin,3,Black Badge  - for Legends Store use,,Dark Sentinel Badge,"A badge of glory for those who spare no expense, whether it be offence or defence. Gather enough and find favour with the Dark Sentinels.",black_badge.png,2023/March update,2,Legends,1,Currency
+1,Coin,4,White Badge  - for Legends Store use,,Light Sentinel Badge,A badge of honour for those who burn the midnight oil and daily make that uphill toil. Gather enough and find favour with the Light Sentinels.,white_badge.png,2023/March update,2,Legends,1,Currency
 2,Chest,1,Wheel Ticket,,Wheel of Fortune Ticket,"A token that gleams with opportunity. Use it to spin the Wheel of Fortune and test your luck. Maybe you'll get something valuable!
-",wheel_ticket.png,,
-2,Chest,2,Random Loot Chest,,Random Loot Chest ,"A mysterious unearthed cache that could contain Equipment, Materials, Crystals, Gems, or Runes. There's only one way to find out what's inside…",random_loot_crate.png,,
-2,Chest,3,Common Equipment Chest,,Mystery Equipment Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain Crystals, Gems, or if you’re super lucky, a piece of Epic or Rare Equipment. ",random_equipment_crate.png,,
-2,Chest,4,Uncommon Equipment Chest,,Uncommon Equipment Chest,"A sturdy chest made by Forgetemper himself. Open it to find Crystals, Gems, or quite possibly, a piece of Epic or Rare Equipment. ",uncommon_equipment_crate.png,,
-2,Chest,5,Rare Equipment Chest,,Rare Equipment Chest,"This chest seems to have been crafted with great care, just like the piece of Rare Equipment inside it. What will you find? Weapon, Helm, Garb, Boots or Ring?",rare_equipment_crate.png,,
-2,Chest,6,Epic Equipment Chests,,Epic Equipment Chest,"What a chest indeed! Such stunning ornamentation! Surely, there must be a piece of Epic Equipment inside. What could it be? Weapon, Helm, Garb, Boots or Ring?",epic_equipment_crate.png,,
-2,Chest,7,Legendary Equipment Chest,,Legendary Equipment Chest,"Just feel all that raw power radiating from this magnificent chest! There is definitely a piece of Legendary Equipment in here. Only one question remains: Weapon, Helm, Garb, Boots or Ring?",legendary_equipment_crate.png,,
-2,Chest,8,Random Resources Chest,,Mystery Material Chest,"A random mix of Wood, Metal, or Stone freshly bundled by hard-working D.G.Pals. What could you create with this?",random_resource_crate.png,,
-2,Chest,9,Small Resources Chest,,Small Material Chest,"A handy pack of Wood, Metal, or Stone to jump-start your crafting.",random_small_crate.png,,
-2,Chest,10,Medium Resources Chest,,Medium Material Chest,"A sizable haul of Wood, Metal, or Stone from the bountiful land of Panterra, for all your crafting needs.",random_medium_crate.png,,
-2,Chest,11,Large Resources Chest,,Large Material Chest,"A gigantic pile of Wood, Metal, or Stone delivered right to your doorstep. Time for some serious construction work!",random_large_crate.png,,
+",wheel_ticket.png,,0,General,3,Tickets
+2,Chest,2,Random Loot Chest,,Random Loot Chest ,"A mysterious unearthed cache that could contain Equipment, Materials, Crystals, Gems, or Runes. There's only one way to find out what's inside…",random_loot_crate.png,,0,General,2,Chests
+2,Chest,3,Common Equipment Chest,,Mystery Equipment Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain Crystals, Gems, or if you’re super lucky, a piece of Epic or Rare Equipment. ",random_equipment_crate.png,,0,General,2,Chests
+2,Chest,4,Uncommon Equipment Chest,,Uncommon Equipment Chest,"A sturdy chest made by Forgetemper himself. Open it to find Crystals, Gems, or quite possibly, a piece of Epic or Rare Equipment. ",uncommon_equipment_crate.png,,0,General,2,Chests
+2,Chest,5,Rare Equipment Chest,,Rare Equipment Chest,"This chest seems to have been crafted with great care, just like the piece of Rare Equipment inside it. What will you find? Weapon, Helm, Garb, Boots or Ring?",rare_equipment_crate.png,,0,General,2,Chests
+2,Chest,6,Epic Equipment Chests,,Epic Equipment Chest,"What a chest indeed! Such stunning ornamentation! Surely, there must be a piece of Epic Equipment inside. What could it be? Weapon, Helm, Garb, Boots or Ring?",epic_equipment_crate.png,,0,General,2,Chests
+2,Chest,7,Legendary Equipment Chest,,Legendary Equipment Chest,"Just feel all that raw power radiating from this magnificent chest! There is definitely a piece of Legendary Equipment in here. Only one question remains: Weapon, Helm, Garb, Boots or Ring?",legendary_equipment_crate.png,,0,General,2,Chests
+2,Chest,8,Random Resources Chest,,Mystery Material Chest,"A random mix of Wood, Metal, or Stone freshly bundled by hard-working D.G.Pals. What could you create with this?",random_resource_crate.png,,0,General,2,Chests
+2,Chest,9,Small Resources Chest,,Small Material Chest,"A handy pack of Wood, Metal, or Stone to jump-start your crafting.",random_small_crate.png,,0,General,2,Chests
+2,Chest,10,Medium Resources Chest,,Medium Material Chest,"A sizable haul of Wood, Metal, or Stone from the bountiful land of Panterra, for all your crafting needs.",random_medium_crate.png,,0,General,2,Chests
+2,Chest,11,Large Resources Chest,,Large Material Chest,"A gigantic pile of Wood, Metal, or Stone delivered right to your doorstep. Time for some serious construction work!",random_large_crate.png,,0,General,2,Chests
 2,Chest,12,"Common Equipment Chest for: 
 1) BSC News NFT Explorer Bundle
-2) Starter Bundle(submarine event)",,Peculiar Equipment Chest ,"What an odd-looking chest! How curious, how very peculiar. From where did it come? And what exactly does it hold? Only one way to find out…",eq-crate_peculiar-min.png,,
-2,Chest,13,Lucky Draw Ticket in the Starter Bundle(submarine event),,Seabreacher X Lucky Draw Ticket,Stand an exciting chance to win the Seabreacher X and its accompanying NFT Mount - the Azuroras ATV that will appear in DGP: Plaza! Refer to Discord and Twitter for the official draw date.,luckyDraw.png,The ticket will be real NFT,
-2,Chest,14,Merged 2-3 & 2-12 into a new chest,,Mystery Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment. ",mystery_chest_icon.png,2023/Jan update,
+2) Starter Bundle(submarine event)",,Peculiar Equipment Chest ,"What an odd-looking chest! How curious, how very peculiar. From where did it come? And what exactly does it hold? Only one way to find out…",eq-crate_peculiar-min.png,,0,General,2,Chests
+2,Chest,13,Lucky Draw Ticket in the Starter Bundle(submarine event),,Seabreacher X Lucky Draw Ticket,Stand an exciting chance to win the Seabreacher X and its accompanying NFT Mount - the Azuroras ATV that will appear in DGP: Plaza! Refer to Discord and Twitter for the official draw date.,luckyDraw.png,The ticket will be real NFT,0,General,2,Chests
+2,Chest,14,Merged 2-3 & 2-12 into a new chest,,Mystery Chest,"Looks like Forgetemper left his things lying around again... This unmarked chest could contain various upgrade materials or if you’re super lucky, a piece of Rare or Epic Equipment. ",mystery_chest_icon.png,2023/Jan update,0,General,2,Chests
 2,Chest,15,Classic Arena Crate - in-game items for Legends use,,Classic Arena Crate,"Ooooo… The Classic Arena Crate that every Arena challenger needs. Contains various upgrade materials [T1-T6] and oh, the slightest chance of Equipment. 
-(Earn 1 Light Sentinel Badge.)",arena_crate_classic.png,2023/March update,"The italicised last lines also to be shown, but separate paragraph."
+(Earn 1 Light Sentinel Badge.)",arena_crate_classic.png,2023/March update,2,Legends,2,Chests
 2,Chest,16,Deluxe Arena Crate - in-game items for Legends use,,Deluxe Arena Crate,"Ready to up your game? Then this Deluxe Arena Crate is perfect for you! Contains a significant amount of upgrade materials [T1-T8] and even a small chance of Equipment! 
-(Receive 10 Dark Sentinel Badges.)",arena_crate_deluxe.png,2023/March update,"The italicised last lines also to be shown, but separate paragraph."
+(Receive 10 Dark Sentinel Badges.)",arena_crate_deluxe.png,2023/March update,2,Legends,2,Chests
 2,Chest,17,Premium Arena Crate - in-game items for Legends use,,Premium Arena Crate,"Aspiring Legends, this one’s for you! Gain an edge over your opponents with this Premium Arena Crate and take the competition by storm! Contains quality upgrade materials [T6-T10] and a higher chance of Equipment. 
-(Receive 50 Dark Sentinel Badges.)",arena_crate_premium.png,2023/March update,"The italicised last lines also to be shown, but separate paragraph."
-3,Egg,1,Egg,,Random D.G.Egg,This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.,random_egg.png,"include race type: 1~6, 9, 10",
-3,Egg,2,Space(R),,Rare Space D.G.Egg,This is a Rare Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Space type D.G.Pal.,space_egg_r.png,,
-3,Egg,3,Elem(R),,Rare Elemental D.G.Egg,This is a Rare Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Elemental type D.G.Pal.,elemental_egg_r.png,,
-3,Egg,4,Space(G),,Great Space D.G.Egg,This is a Great Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Space type D.G.Pal.,space_egg_g.png,,
-3,Egg,5,Elem(G),,Great Elemental D.G.Egg,This is a Great Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Elemental type D.G.Pal.,elemental_egg_g.png,,
-3,Egg,6,Space(E),,Excellent Space D.G.Egg,This is an Excellent Space D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Space type D.G.Pal.,space_egg_e.png,,
-3,Egg,7,Elem(E),,Excellent Elemental D.G.Egg,"This is an Excellent Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Elemental type D.G.Pal.",elemental_egg_e.png,,
-3,Egg,8,Random Space/Elemental Egg,,Random Space / Elemental D.G.Egg,This is a random Space / Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space / Elemental D.G.Pal NFT.,elemental-space_egg.png,Combined to 3-1,
-3,Egg,9,Random Dino / Nightmare D.G.Egg ,,Random Dino / Nightmare D.G.Egg ,This is a random Dino / Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino / Nightmare D.G.Pal NFT.,dino-nightmare_egg.png,,
-,,,,,Dino D.G.Egg,This is a random Dino D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino D.G.Pal NFT.,,,
-,,,,,Nightmare D.G.Egg ,This is a random Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Nightmare D.G.Pal NFT.,,,
+(Receive 50 Dark Sentinel Badges.)",arena_crate_premium.png,2023/March update,2,Legends,2,Chests
+2,Chest,18,Classic Island Crate  - in-game items for Adventure use,,Classic Island Crate,Ah hah! This Classic Island Crate is bound to come in handy for your adventure. Contains various mystical resources.,island_crate_classic.png,2023/March update,4,Adventure,2,Chests
+2,Chest,19,Deluxe Island Crate  - in-game items for Adventure use,,Deluxe Island Crate,Clearing rifts can be real rough! Increase your odds with this Deluxe Island Crate! Contains a significant amount of mystical resources.,island_crate_deluxe.png,2023/March update,4,Adventure,2,Chests
+2,Chest,20,Premium Island Crate  - in-game items for Adventure use,,Premium Island Crate,Calling all avid adventurers! Unleash your full potential with this Premium Island Crate! Contains quality mystical resources that will help you and your Clan emerge victorious!,island_crate_premium.png,2023/March update,4,Adventure,2,Chests
+3,Egg,1,Egg,,Random D.G.Egg,This is a random D.G.Egg. It can be hatched and certified in D.G.P: New World as a random D.G.Pal NFT.,random_egg.png,"include race type: 1~6, 9, 10",1,New World,4,Eggs
+3,Egg,2,Space(R),,Rare Space D.G.Egg,This is a Rare Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Space type D.G.Pal.,space_egg_r.png,,1,New World,4,Eggs
+3,Egg,3,Elem(R),,Rare Elemental D.G.Egg,This is a Rare Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Rare Elemental type D.G.Pal.,elemental_egg_r.png,,1,New World,4,Eggs
+3,Egg,4,Space(G),,Great Space D.G.Egg,This is a Great Space D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Space type D.G.Pal.,space_egg_g.png,,1,New World,4,Eggs
+3,Egg,5,Elem(G),,Great Elemental D.G.Egg,This is a Great Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing a Great Elemental type D.G.Pal.,elemental_egg_g.png,,1,New World,4,Eggs
+3,Egg,6,Space(E),,Excellent Space D.G.Egg,This is an Excellent Space D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Space type D.G.Pal.,space_egg_e.png,,1,New World,4,Eggs
+3,Egg,7,Elem(E),,Excellent Elemental D.G.Egg,"This is an Excellent Elemental D.G.Egg. This egg will be hatched and minted into an NFT containing an Excellent Elemental type D.G.Pal.",elemental_egg_e.png,,1,New World,4,Eggs
+3,Egg,8,Random Space/Elemental Egg,,Random Space / Elemental D.G.Egg,This is a random Space / Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space / Elemental D.G.Pal NFT.,elemental-space_egg.png,Combined to 3-1,1,New World,4,Eggs
+3,Egg,9,Random Dino / Nightmare D.G.Egg ,,Random Dino / Nightmare D.G.Egg ,This is a random Dino / Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino / Nightmare D.G.Pal NFT.,dino-nightmare_egg.png,,1,New World,4,Eggs
+3,Egg,10,Random Magic,,Magic D.G.Egg,This is a random Magic D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Magic D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,11,Random Horror,,Horror D.G.Egg,This is a random Horror D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Horror D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,12,Random Marine,,Marine D.G.Egg,This is a random Marine D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Marine D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,13,Random Scaly,,Scaly D.G.Egg,This is a random Scaly D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Scaly D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,14,Random Flora,,Flora D.G.Egg,This is a random Flora D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Flora D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,15,Random Sky,,Sky D.G.Egg,This is a random Sky D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Sky D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,16,Random Space,,Space D.G.Egg,This is a random Space D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Space D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,17,Random Elemental,,Elemental D.G.Egg,This is a random Elemental D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Elemental D.G.Pal NFT.,,2023/March update,1,New World,4,Eggs
+3,Egg,18,Random Dino,,Dino D.G.Egg,This is a random Dino D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Dino D.G.Pal NFT.,,2023/March update,,,,
+3,Egg,19,Random Nightmare,,Nightmare D.G.Egg ,This is a random Nightmare D.G.Egg. It can be hatched and certified in D.G.P: New World as a random Nightmare D.G.Pal NFT.,,2023/March update,,,,
 10,Ticket,1,"free mint ticket for NW NFTs
-(Consumable)",,Certification Ticket, Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required. ,free_mint_icon.png,2023/Jan update,
+(Consumable)",,Certification Ticket, Present this official ticket to the New World Office when your D.G.Pal is ready to be certified as an NFT. This will waive the usual $OPL fee required. ,free_mint_icon.png,2023/Jan update,1,New World,3,Tickets
 10,Ticket,2,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Green,An invitation to trade... That's all it says on the back.,luxe_green.png,2023/Jan update,
+of equal rank, just for different categories",,Luxe Green,An invitation to trade... That's all it says on the back.,luxe_green.png,2023/Jan update,0,General,3,Tickets
 10,Ticket,3,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Blue,An invitation to trade... That's all it says on the back.,luxe_blue.png,2023/Jan update,
+of equal rank, just for different categories",,Luxe Blue,An invitation to trade... That's all it says on the back.,luxe_blue.png,2023/Jan update,0,General,3,Tickets
 10,Ticket,4,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Red,An invitation to trade... That's all it says on the back.,luxe_red.png,2023/Jan update,
+of equal rank, just for different categories",,Luxe Red,An invitation to trade... That's all it says on the back.,luxe_red.png,2023/Jan update,0,General,3,Tickets
 10,Ticket,5,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-of equal rank, just for different categories",,Luxe Purple,An invitation to trade... That's all it says on the back.,luxe_purple.png,2023/Jan update,
+of equal rank, just for different categories",,Luxe Purple,An invitation to trade... That's all it says on the back.,luxe_purple.png,2023/Jan update,0,General,3,Tickets
 10,Ticket,6,"new tickets to trade for exclusive items in future. 
 Not tied to any particular game. 
-The extremely premium ticket",,Rainbow Luxe,An invitation to trade... That's all it says on the back.,luxe_rainbow.png,2023/Jan update,
+The extremely premium ticket",,Rainbow Luxe,An invitation to trade... That's all it says on the back.,luxe_rainbow.png,2023/Jan update,0,General,3,Tickets
+10,Ticket,7,Mount Ticket - in-game items for Plaza use,,Mount Ticket,"Golly! These are unbelievably difficult to obtain! Well done, you! Head over to Impossible Plaza to redeem it for an exclusive NFT Mount!",mount_ticket.png,2023/March update,3,Plaza,3,Tickets
+10,Ticket,8,Impossible Ticket - in-game items for Plaza use,,Impossible Ticket,What could these possibly be exchanged for? Collect as many as you can and find out in Impossible Plaza!,impossible_ticket.png,2023/March update,3,Plaza,3,Tickets
+16,Tools,1,Impossible Blueprint - in-game items used in Plaza,,Impossible Blueprint,"Whoever drew these up is either a genius or has a screw loose. Who could possibly decipher those scribbles? Then again, one never knows in Impossible Plaza.",impossible_blueprint.png,2023/March update,3,Plaza,9,Home
